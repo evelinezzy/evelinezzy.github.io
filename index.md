@@ -14,7 +14,7 @@ layout: default
 
 ## Find me on
 
-[LinkedIn](https://www.linkedin.com/in/ziyan-zhuang-48b426331), [GitHub](https://evelinezzy.github.io)
+[LinkedIn](https://www.linkedin.com/in/ziyan-zhuang-48b426331), [GitHub](https://evelinezzy.github.io), [CV](https://www.overleaf.com/read/qmkcnhwzmfwv#b55fdd)
 
 ## Contact
 
